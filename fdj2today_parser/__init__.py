@@ -1,1 +1,1 @@
-from .fdj2today_parser import Parser
+from .fdj2today_parser import request_fudosan_articles
